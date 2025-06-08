@@ -13,3 +13,8 @@ Note: This scenario involves developing the same algorithm that is developed in 
 Create another algorithm
  lab. (You do not need to reference Task 1 and Tasks 8-10 of the lab to complete this portfolio activity.) You should revisit the lab to get screenshots to include in your portfolio document. 
 
+![](images/1.png)
+![](images/2.png)
+![](images/3.png)
+![](images/4.png)
+![](images/5.png)
